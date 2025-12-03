@@ -13,7 +13,7 @@ CAD models and 3D printed a casing to protect a Raspbery Pi 5 intended to be on 
 
 🥼 [Raspberry Pi 5 Print Version 1](MIE243CheckIn2ASSEMBLY.zip)  
 
-<img src="RaspberryPiCasingPrintedVersion1.jpg" alt="Image of Raspberry Pi 5 CAD Model Iteration 1" width="400" height="300">
+<img src="RaspberryPiCasingPrintedVersion1.jpg" alt="Image of Raspberry Pi 5 CAD Model Iteration 1" width="400" height="400">
 ---
 ## Results
 **TBD**
