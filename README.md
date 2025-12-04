@@ -24,3 +24,4 @@ CAD models and 3D printed a casing to protect a Raspbery Pi 5 intended to be on 
 - Learned the importance of dimension tolerances for different kinds of fits for 3D printing.
 - Learned about designing for 3D printing, easy assembly, implementation, minimizing volume taken, compatibility with other rover components and flexibility.
 - Practiced the engineering method of iteration and rapid prototyping.
+- Designed with robtics/mechatronics components in mind, considering the design itself focused on something that controlled actuators. This links to the hardware aspect of robotics.
